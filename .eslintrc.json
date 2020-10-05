@@ -47,7 +47,11 @@
       "@typescript-eslint/explicit-module-boundary-types": "off",
       "jsx-a11y/label-has-associated-control": "off",
       "react/jsx-props-no-spreading": "off",
-      "react/jsx-one-expression-per-line": "off"
+      "react/jsx-one-expression-per-line": "off",
+      "no-console": "off",
+      "camelcase": "off",
+      "no-alert": "off",
+      "react/jsx-no-target-blank": "off"
     },
     "settings": {
       "import/resolver": {
